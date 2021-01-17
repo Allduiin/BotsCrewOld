@@ -1,5 +1,9 @@
+import services.MainService;
+import services.impl.MainServiceImpl;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("It works");
+        MainService mainService = new MainServiceImpl();
+        mainService.start();
     }
 }

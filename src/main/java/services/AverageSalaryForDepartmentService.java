@@ -1,5 +1,5 @@
 package services;
 
 public interface AverageSalaryForDepartmentService {
-    String takeAverageSalary(String departmentName);
+    void takeAverageSalary(String departmentName);
 }

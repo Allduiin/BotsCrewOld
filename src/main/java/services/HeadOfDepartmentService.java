@@ -1,5 +1,5 @@
 package services;
 
 public interface HeadOfDepartmentService {
-    String takeDepartmentName(String departmentName);
+    void takeHeadOfDepartment(String departmentName);
 }

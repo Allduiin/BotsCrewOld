@@ -2,5 +2,5 @@ package services;
 
 public interface MainService {
     void start();
-    void releaseUserCommand();
+    void releaseUserCommand(String command);
 }
