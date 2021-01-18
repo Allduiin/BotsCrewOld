@@ -1,1 +1,16 @@
+services\AverageSalaryForDepartmentService.class
+services\impl\GlobalSearchServiceImpl.class
+model\Lector$Degree.class
+services\impl\AverageSalaryForDepartmentServiceImpl.class
+services\CountOfEmployeeService.class
+model\Department.class
+model\Lector.class
 Main.class
+services\MainService.class
+services\impl\HeadOfDepartmentServiceImpl.class
+services\DepartmentStaticsService.class
+services\impl\MainServiceImpl.class
+services\GlobalSearchService.class
+services\HeadOfDepartmentService.class
+services\impl\CountOfEmployeeServiceImpl.class
+services\impl\DepartmentStaticsServiceImpl.class

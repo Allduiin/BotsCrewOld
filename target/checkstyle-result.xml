@@ -2,4 +2,32 @@
 <checkstyle version="8.29">
 <file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\Main.java">
 </file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\model\Department.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\model\Lector.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\services\AverageSalaryForDepartmentService.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\services\CountOfEmployeeService.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\services\DepartmentStaticsService.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\services\GlobalSearchService.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\services\HeadOfDepartmentService.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\services\impl\AverageSalaryForDepartmentServiceImpl.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\services\impl\CountOfEmployeeServiceImpl.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\services\impl\DepartmentStaticsServiceImpl.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\services\impl\GlobalSearchServiceImpl.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\services\impl\HeadOfDepartmentServiceImpl.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\services\impl\MainServiceImpl.java">
+</file>
+<file name="C:\Users\vovap\IdeaProjects\BotsCrew\src\main\java\services\MainService.java">
+</file>
 </checkstyle>
