@@ -55,13 +55,13 @@ public class MainServiceImpl implements MainService {
             departmentStaticsService.takeDepartmentStatistics(command
                     .substring("Show ".length(), command.length() - " statistics.".length()));
         } else if (command.startsWith(SALARY_COMMAND)) {
-            departmentStaticsService.takeDepartmentStatistics(command
+            averageSalaryForDepartmentService.takeAverageSalary(command
                     .substring(SALARY_COMMAND.length()));
         } else if (command.startsWith(COUNT_EMPLOYEE_COMMAND)) {
             countOfEmployeeService.takeEmployeeCount(command
                     .substring(COUNT_EMPLOYEE_COMMAND.length()));
         } else if (command.startsWith(SEARCH_COMMAND)) {
-            countOfEmployeeService.takeEmployeeCount(command.substring(SEARCH_COMMAND.length()));
+            globalSearchService.globalSearch(command.substring(SEARCH_COMMAND.length()));
         } else if (command.equals(EXIT_COMMAND)) {
             System.out.println("Thanks for using our bot");
             exitConstant = 1;
